@@ -57,6 +57,18 @@ li {
   margin-bottom: 8px;
 }
 
+/* Styling for custom lists */
+.custom-list {
+  list-style-type: circle;
+  list-style-position: inside;
+  margin-bottom: 5px;
+  text-align: center;
+  padding: 0%;
+}
+
+.custom-list li {
+  margin-bottom: 8px;
+}
 /* Styling for buttons */
 a.btn {
   display: inline-block;
