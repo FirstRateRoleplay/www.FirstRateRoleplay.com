@@ -1,99 +1,78 @@
-/*Main CSS */
+/* Main CSS */
+
+/* Global styling for the entire page */
 body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    color: white;
-    background-color: #0A1F34;
-}
-
-header {
-    position: relative;
-    text-align: center;
-    margin: 20px;
-}
-
-header img {
-    width: 100%; /* Make the image fill the width of its container */
-    max-height: 300px; /* Set a maximum height to prevent excessive stretching */
-    object-fit: cover; /* Maintain aspect ratio while covering the container */
-    border-radius: 5px; /* Add border-radius for rounded corners if desired */
-    opacity: 0.79;
-    ;
-}
-
-header h1 {
-    color: #fff;
-    margin-top: 10px; /* Adjust the margin to your preference */
-}
-
-section, footer {
-    text-align: center;
-    margin: 20px;
-}
-
-section {
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 20px;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-a.btn {
-    display: inline-block;
-    padding: 10px 20px;
-    text-decoration: none;
-    background-color: #c12525;
-    color: #fff;
-    border-radius: 5px;
-}
-
-footer {
-    margin-top: 50px;
-}
-
-
-header {
-  position: relative;
-}
-
-nav {
-  background-color: #0A1F34;
-  padding: 10px;
-}
-
-nav ul {
-  list-style: none;
+  font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  display: flex;
-}
-
-nav li {
-  margin-right: 10px;
-}
-
-nav a {
+  box-sizing: border-box;
   color: white;
+  background-color: #0A1F34; /* Background color for the entire page */
+}
+
+/* Styling for the header section */
+header {
+  position: relative;
+  text-align: center;
+  margin: 20px;
+}
+
+/* Styling for the banner image within the header */
+header img {
+  width: 100%; /* Make the image fill the width of its container */
+  max-height: 400px; /* Set a maximum height to prevent excessive stretching */
+  object-fit: cover; /* Maintain aspect ratio while covering the container */
+  border-radius: 5px; /* Add border-radius for rounded corners if desired */
+  opacity: 0.64; /* Set opacity for the banner image */
+}
+
+/* Styling for the main heading within the header */
+header h1 {
+  color: #fff;
+  margin-top: 10px; /* Adjust the margin to your preference */
+}
+
+/* Styling for sections and footer */
+section, footer {
+  text-align: center;
+  margin: 20px;
+}
+
+/* Styling for individual sections */
+section {
+  border-bottom: 2px solid #ddd; /* Bottom border for each section */
+  padding-bottom: 20px;
+}
+
+/* Styling for unordered lists */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Styling for buttons */
+a.btn {
+  display: inline-block;
+  padding: 10px 20px;
   text-decoration: none;
+  background-color: #c12525;
+  color: #fff;
+  border-radius: 5px;
 }
 
-nav a:hover {
-  text-decoration: underline;
+/* Styling for the footer */
+footer {
+  margin-top: 50px;
 }
-
-
 
 /* Navigation Menu */
 
+/* Additional styling for the header and navigation */
 header {
   position: relative;
 }
 
+/* Styling for the navigation bar */
 nav {
   background-color: #0A1F34;
   padding: 10px;
@@ -101,6 +80,7 @@ nav {
   justify-content: center; /* Center the items horizontally */
 }
 
+/* Styling for the navigation list */
 nav ul {
   list-style: none;
   margin: 0;
@@ -108,15 +88,18 @@ nav ul {
   display: flex;
 }
 
+/* Styling for individual navigation items */
 nav li {
   margin-right: 10px;
 }
 
+/* Styling for navigation links */
 nav a {
   color: white;
   text-decoration: none;
 }
 
+/* Styling for navigation links on hover */
 nav a:hover {
   text-decoration: underline;
 }
