@@ -46,8 +46,15 @@ section {
 
 /* Styling for unordered lists */
 ul {
-  list-style-type: none;
-  padding: 0;
+  list-style-type: circle;
+  list-style-position: inside;
+  text-align: center;
+  padding: 0%;
+}
+
+
+li {
+  margin-bottom: 5px;
 }
 
 /* Styling for buttons */
