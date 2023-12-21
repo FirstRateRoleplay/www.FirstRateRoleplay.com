@@ -4,7 +4,9 @@
 ### [Revision 2.0] LAST UPDATED: 09/16/2023 @ 10:25 PM(PST)
 
 
-THERE ARE NO EXCEPTIONS TO THE RULES & REGULATIONS AT ANY TIME UNDER ANY CIRCUMSTANCES! THIS DOCUMENT IS SUBJECT TO CHANGE AT ANY TIME WITHOUT PRIOR NOTICE AT THE DISCRETION OF THE FIRST RATE ROLEPLAY STAFF,  ADMINISTRATION, AND MANAGEMENT TEAMS! `© COPYRIGHT 2021-2023 First Rate Roleplay™ ALL RIGHTS RESERVED` 
+THERE ARE NO EXCEPTIONS TO THE RULES & REGULATIONS AT ANY TIME UNDER ANY CIRCUMSTANCES! THIS DOCUMENT IS SUBJECT TO CHANGE AT ANY TIME WITHOUT PRIOR NOTICE AT THE DISCRETION OF THE FIRST RATE ROLEPLAY STAFF,  ADMINISTRATION, AND MANAGEMENT TEAMS!
+
+`© COPYRIGHT 2021-2023 First Rate Roleplay™ ALL RIGHTS RESERVED` 
 
 
 
@@ -272,14 +274,14 @@ Criminal Organizations / Gangs are limited to a total of ten (10) players per ga
 
 ### 5.16: Robbery & Heist Rules
  In order for there to be proper balancing and ensure that everything remains fair within the community, the First Rate Roleplay staff and admiistration have implemented various guidelines regarding robberies and heists broken into various sub-sections.  
-#### 5.16 [A] Heist Guidelines
-- During any kind of robbery or heist, all players involved in the illegal activity are considered a Criminal Group and are limited to a maximum of five (5) players within their group as outlined with 5.15[D], with no more than two separate vehicles. This is to ensure that all players have a fair chance in participating in the scene, as well as prevent overwhelming other players. 
 
-- Each player may only participate in one (1) bank robbery once every four (4) days, this includes the person initiating the robbery, and the people involved within the active robbery group. You may not rob a bank with a different character during this window of time. Any time the bank doors are breached, it is considered a robbery attempt, regardless of the outcome. 
+#### 5.16 [A] Heist Guidelines
+During any kind of robbery or heist, all players involved in the illegal activity are considered a Criminal Group and are limited to a maximum of five (5) players within their group as outlined with 5.15[D], with no more than two separate vehicles. This is to ensure that all players have a fair chance in participating in the scene, as well as prevent overwhelming other players. 
+
+Each player may only participate in one (1) bank robbery once every four (4) days, this includes the person initiating the robbery, and the people involved within the active robbery group. You may not rob a bank with a different character during this window of time. Any time the bank doors are breached, it is considered a robbery attempt, regardless of the outcome. 
 
 #### 5.16 [B] Robbing Players
-- Players are not allowed to take EVERYTHING from another player’s inventory during a robbery or other criminal activity. Players should only take items that are relevant to the situation, and that they realistically would have knowledge of. Remember you are robbing other players! 
-
+Players are not allowed to take EVERYTHING from another player’s inventory during a robbery or other criminal activity. Players should only take items that are relevant to the situation, and that they realistically would have knowledge of. Remember you are robbing other players! 
 
 ## (6) Disciplinary Process
 Members who violate any policies in all policy/regulation documents, including SOPs, may be subjected to disciplinary action. This is up to, and including, removal from First Rate RP.
@@ -345,26 +347,26 @@ First Rate Roleplay™ respects your privacy and is committed to protecting the 
 
 #### 7.04[A]: What We Collect: 
 **User Provided Information**
-- We may collect some of your personal information including but not limited to: Your Name, Age, Discord Username  Email Address, and in-game character names, when you register or interact with our Website or features within our Custom Server(s).  
+We may collect some of your personal information including but not limited to: Your Name, Age, Discord Username  Email Address, and in-game character names, when you register or interact with our Website or features within our Custom Server(s).  
 
 **Server Log Data**
-- Our servers may automatically log certain information including but not limited to, your IP Address, Discord Unique ID, Steam Profile Hex ID, web browser type, and website pages visited. This data is utilized for analytics, and server administration purposes including gameserver access, authentication, and the granting of permissions in-game. 
+Our servers may automatically log certain information including but not limited to, your IP Address, Discord Unique ID, Steam Profile Hex ID, web browser type, and website pages visited. This data is utilized for analytics, and server administration purposes including gameserver access, authentication, and the granting of permissions in-game. 
 
 **Cookies**
-- We may also utilize cookies which are small data files stored on your device, to enhance your experience on our website. You can adjust your browser settings to refuse cookies if that is your preference. 
+We may also utilize cookies which are small data files stored on your device, to enhance your experience on our website. You can adjust your browser settings to refuse cookies if that is your preference. 
 
 #### 7.04[B]: How We Utilize Your Data & Information
 First Rate Roleplay™ may utilize some of the data and other information provided for various purposes including but not limited to the following:
  
-- To provide and maintain our community services, including: Custom Servers for in-game experiences, forums, and communication platforms.
+To provide and maintain our community services, including: Custom Servers for in-game experiences, forums, and communication platforms.
 
-- To authenticate your access to Custom Servers  and grant you in-game permissions in an automated form. 
+To authenticate your access to Custom Servers  and grant you in-game permissions in an automated form. 
 
-- To communicate with you regarding announcements, updates, and player support whenever you need it. 
+To communicate with you regarding announcements, updates, and player support whenever you need it. 
 
-- To monitor and improve our game servers and website.
+To monitor and improve our game servers and website.
 
-- To enforce our community standards and policies. 
+To enforce our community standards and policies. 
 
 #### 7.04[C]:Information Sharing Policy
 We do not sell, trade, or otherwise transfer your information to third-parties. However, there will be times where we may share your information with trusted service providers who assist us in operating our website and services and are subject to strict confidentiality agreements.
