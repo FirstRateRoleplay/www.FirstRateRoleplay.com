@@ -1,4 +1,4 @@
-![www.FirstRateRoleplay.com](https://cdn.discordapp.com/attachments/1116472338725208194/1152446551923363940/FirstRate_Roleplay_Banner_1-01.jpg "© Copyright First Rate Roleplay™.")
+![www.FirstRateRoleplay.com](https://cdn.discordapp.com/attachments/1069399090334543963/1187206506005938237/banner.jpg?ex=65960b38&is=65839638&hm=378d74c12fff5c44cad76b49691c1061a9f5c1c4527bac6b7c772b2cf7eea486& "© Copyright First Rate Roleplay™.")
 # First Rate Roleplay™
 ## Community Guidelines, Rules & Terms of Service
 ### [Revision 2.0] LAST UPDATED: 09/16/2023 @ 10:25 PM(PST)
