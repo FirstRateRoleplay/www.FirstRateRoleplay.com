@@ -326,8 +326,6 @@ Administrative Character Action (ACA) is an in-game action or storyline narrativ
 
 The purpose of this “scripted” narrative is to create a lore-friendly and appropriate in-character narrative to the OOC situation in order to prevent heavy impact to on-going storylines with other players that may have been associated with the removed entity in some way, without the narrative having a negative impact on the player(s) involved. 
 
-
-
 ## (7) Legal Disclaimers & Policies
 For legal reasons, we are required to provide you with the following disclaimers: 
 ### 7.01: Affiliations With Real Life Entities
