@@ -55,12 +55,15 @@ ul {
 
 li {
   margin-bottom: 8px;
+  align-items: center;
+  justify-content: center;
+  list-style-position: inside;
 }
 
 /* Styling for custom bullet lists */
 .bullet ul {
   list-style-type: circle;
-  list-style-position: inside;
+  list-style-position: outside;
   margin-bottom: 5px;
   text-align: center;
   padding: 0%;
@@ -68,6 +71,7 @@ li {
 
 .bullet li {
   margin-bottom: 8px;
+  text-align: left;
 }
 /* Styling for buttons */
 a.btn {
@@ -121,4 +125,21 @@ nav a {
 /* Styling for navigation links on hover */
 nav a:hover {
   text-decoration: underline;
+}
+
+
+/* Styles for the rendered HTML content */
+#markdown-container p {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+#markdown-container h1,
+#markdown-container h2,
+#markdown-container h3,
+#markdown-container h4,
+#markdown-container h5,
+#markdown-container h6 {
+  font-weight: bold;
+  margin-bottom: 10px;
 }

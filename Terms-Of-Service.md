@@ -6,9 +6,6 @@
 
 THERE ARE NO EXCEPTIONS TO THE RULES & REGULATIONS AT ANY TIME UNDER ANY CIRCUMSTANCES! THIS DOCUMENT IS SUBJECT TO CHANGE AT ANY TIME WITHOUT PRIOR NOTICE AT THE DISCRETION OF THE FIRST RATE ROLEPLAY STAFF,  ADMINISTRATION, AND MANAGEMENT TEAMS!
 
-`© COPYRIGHT 2021-2023 First Rate Roleplay™ ALL RIGHTS RESERVED` 
-
-
 
 ## (1) Membership Requirements
 ### 1.01: Age Requirement
@@ -381,3 +378,5 @@ We encourage you to review their privacy policies before interacting with them.
 
 ### 7.05: Legal Disputes
 For any legal disputes regarding First Rate Roleplay™ please email our legal team at: legal@FirstRateRoleplay.com 
+
+### `© COPYRIGHT 2021-2023 First Rate Roleplay™ ALL RIGHTS RESERVED` 

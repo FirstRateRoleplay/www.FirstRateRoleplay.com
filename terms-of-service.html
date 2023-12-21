@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Rate Roleplay™</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="favicon.png" t   ype="image/x-icon">
+    <script src="node_modules/showdown/dist/showdown.min.js"></script>
+    <style>
+        /* Custom CSS styles */
+        .content {
+          color: white; /* Change to the desired text color */;
+          list-style-position: outside;
+          text-align: center;
+        }
+
+        .content img {
+      max-width: 100%;
+      max-height: 200px; /* Adjust the desired height */
+    }
+      </style>
+</head>
+<body>
+    <div class="content" id="markdownContent"></div>
+    <script>
+      function convertMarkdownToHTML(markdown) {
+        // Use a Markdown parser library like Showdown.js (https://github.com/showdownjs/showdown)
+        var converter = new showdown.Converter();
+        return converter.makeHtml(markdown);
+      }
+  
+      // Fetch the Markdown content from the URL
+      fetch('https://raw.githubusercontent.com/FirstRateRoleplay/docs.FirstRateRoleplay.com/main/community/Terms-Of-Service.md')
+        .then(response => response.text())
+        .then(markdown => {
+          // Convert the Markdown content to HTML
+          var html = convertMarkdownToHTML(markdown);
+  
+          // Insert the HTML content into the page
+          document.getElementById('markdownContent').innerHTML = html;
+        })
+        .catch(error => {
+          console.error('Error:', error);
+        });
+    </script>
+  </body>
+  </html>
